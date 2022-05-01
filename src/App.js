@@ -40,6 +40,7 @@ function App() {
             <p>Male 1</p>
             <p>Male 2</p>
           </>
+
         )}
 
         {!isFemale && <p>Female</p>}
